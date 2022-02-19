@@ -19,7 +19,7 @@ Pull Requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-** <ins>[MIT](#LICENSE)</ins> **
+ <ins>[MIT](#LICENSE)</ins> 
 
 
 
